@@ -16,7 +16,8 @@
 
 #colores {
      background-color: rgb(82, 168, 42);
-     text-align: center;     
+     text-align: center;
+     background-size: 500px;
 }
 
 .black {
@@ -37,10 +38,6 @@
 
 .lime {
      background-color: lime;
-}
-
-.white {
-     background-color: white;
 }
 
 .purple {

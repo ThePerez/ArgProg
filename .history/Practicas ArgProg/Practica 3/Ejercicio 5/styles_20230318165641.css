@@ -16,7 +16,7 @@
 
 #colores {
      background-color: rgb(82, 168, 42);
-     text-align: center;     
+     text-align: center;
 }
 
 .black {
@@ -37,10 +37,6 @@
 
 .lime {
      background-color: lime;
-}
-
-.white {
-     background-color: white;
 }
 
 .purple {
@@ -144,9 +140,6 @@ p {
      color: silver;
 }
 
-body {
-     background-image: url(/assets/baseball.jpeg);
-     background-repeat: no-repeat;
-     background-position: center;
-     background-size: 600px 400px;
+table {
+     background-image;
 }
