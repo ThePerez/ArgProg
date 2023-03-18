@@ -1,0 +1,24 @@
+#title{
+     font-weight: bold;
+     font-size: x-large;
+     text-align: center;
+}
+
+.principal{
+     display: grid;
+     place-content: center;   
+}
+
+.table{     
+     border: 1px;
+     width: 500px;
+}
+
+#colores{
+     background-color: rgb(86, 255, 8);
+     text-align: center;
+}
+
+negro{
+     background-color: black;
+}

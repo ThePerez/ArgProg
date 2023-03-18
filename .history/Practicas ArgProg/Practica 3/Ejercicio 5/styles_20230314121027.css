@@ -1,0 +1,36 @@
+#title{
+     font-weight: bold;
+     font-size: x-large;
+     text-align: center;
+}
+
+.principal{
+     display: grid;
+     place-content: center;   
+}
+
+.table{     
+     border: 1px;
+     width: 500px;
+}
+
+#colores{
+     background-color: rgb(86, 255, 8);
+     text-align: center;
+}
+
+.black{
+     background-color: black;
+}
+
+.celeste{
+     background-color: rgb(55, 163, 163);
+}
+
+.blue{
+     background-color: blue;
+}
+
+.navy{
+     background-color: na;
+}

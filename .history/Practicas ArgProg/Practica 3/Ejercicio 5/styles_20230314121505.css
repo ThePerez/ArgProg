@@ -1,0 +1,60 @@
+#title{
+     font-weight: bold;
+     font-size: x-large;
+     text-align: center;
+}
+
+.principal{
+     display: grid;
+     place-content: center;   
+}
+
+.table{     
+     border: 1px;
+     width: 500px;
+}
+
+#colores{
+     background-color: rgb(86, 255, 8);
+     text-align: center;
+}
+
+.black{
+     background-color: black;
+}
+
+.celeste{
+     background-color: rgb(55, 163, 163);
+}
+
+.blue{
+     background-color: blue;
+}
+
+.navy{
+     background-color: navy;
+}
+
+.lime{
+     background-color: lime;
+}
+
+.purple{
+     background-color: purple;
+}
+
+.yellow{
+     background-color: yellow;
+}
+
+.olive{
+     background-color: olive;
+}
+
+.red{
+     background-color: red;
+}
+
+.grayO{
+     background-color: rgb(73, 73, 73);
+}

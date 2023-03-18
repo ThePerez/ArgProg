@@ -1,0 +1,15 @@
+#title{
+     font-weight: bold;
+     font-size: x-large;
+     text-align: center;
+}
+
+.table{     
+     margin-left: 50px;
+     margin-right: auto;
+}
+
+#colores{
+     background-color: rgb(86, 255, 8);
+     text-align: center;
+}

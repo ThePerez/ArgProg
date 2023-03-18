@@ -1,0 +1,14 @@
+#title, a {
+     font-weight: bold;
+}
+
+#percent{
+     color:rgb(106, 183, 255);
+}
+
+div{
+     background-image: url("../../../assets/museo.png");
+     background-image: width= 100px;;
+}
+
+
