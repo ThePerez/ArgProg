@@ -1,0 +1,39 @@
+.two {
+     text-shadow: 1px 1px 2px rgb(211, 78, 78), 0 0 1em rgb(253, 139, 139), 0 0 0.2em rgb(248, 10, 10);
+     color: white;
+     font: 1.5em Georgia, "Bitstream Charter", "URW Bookman L", "Century Schoolbook L", serif;
+}
+
+.three {
+     text-shadow: -3px -3px 3px rgb(211, 78, 78), -5px -5px 5px rgb(45, 212, 3), 5px 5px 5px rgb(0, 0, 0);
+     color: rgb(1, 0, 0);
+     font: 1.5em Georgia, "Bitstream Charter", "URW Bookman L", "Century Schoolbook L", bold;
+}
+
+.four {
+     background-color: rgb(224, 224, 224);
+     color: aliceblue;
+     text-shadow:
+          1px 1px #000000,
+          -1px 1px #000000,
+          1px -1px #000000,
+          -1px -1px #000000,
+          1px 1px 0px #000000;
+}
+
+.five {
+     background-color: rgb(163, 161, 161);
+     color: rgb(163, 161, 161);
+     text-shadow: 2px 2px rgb(204, 199, 199),
+          2px 3px rgb(255, 255, 255),
+          2px 1px rgb(255, 255, 255);
+}
+
+.six {
+     background-color: silver;
+     color: silver;
+     text-shadow: 2px 2px rgb(209, 209, 209),
+          3px 3px 1px rgb(146, 135, 135),
+          0px 0px 1px  rgb(243, 243, 243);
+
+}

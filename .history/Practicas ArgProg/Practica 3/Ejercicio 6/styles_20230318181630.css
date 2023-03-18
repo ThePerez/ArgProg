@@ -1,0 +1,16 @@
+.two {
+     text-shadow: 1px 1px 2px rgb(211, 78, 78), 0 0 1em rgb(253, 139, 139), 0 0 0.2em rgb(248, 10, 10);
+     color: white;
+     font: 1.5em Georgia, "Bitstream Charter", "URW Bookman L", "Century Schoolbook L", serif;
+}
+
+.three {
+     text-shadow: -3px -3px 3px rgb(211, 78, 78), -5px -5px 5px rgb(45, 212, 3), 5px 5px 5px rgb(0, 0, 0);
+     color: rgb(1, 0, 0);
+     font: 1.5em Georgia, "Bitstream Charter", "URW Bookman L", "Century Schoolbook L", bold;
+}
+
+.four {
+     background-color: gray;
+     background-size: 0px 50px 0px;
+}

@@ -1,0 +1,5 @@
+.two {
+     text-shadow: 1px 1px 2px rgb(211, 78, 78), 0 0 1em rgb(253, 139, 139), 0 0 0.2em blue;
+     color: white;
+     font: 1.5em Georgia, "Bitstream Charter", "URW Bookman L", "Century Schoolbook L", serif;
+}
