@@ -1,0 +1,51 @@
+.a {
+     font-family: sans-serif;
+     font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+     color: #ffffff;
+     font-size: 18px;
+     background: #464444;
+     border-radius: 0px 0px 65px 0px;
+     width: 150px;
+     height: 80px;
+     position: absolute;
+     top: 10%;
+     left: 10%;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
+
+.b {
+     font-family: sans-serif;
+     font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+     color: #ffffff;
+     font-size: 18px;
+     background: #464444;
+     border-radius: 0px 0px 0px px;
+     width: 100px;
+     height: 80px;
+     position: absolute;
+     top: 10%;
+     left: 35%;     
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
+
+.c {
+     font-family: sans-serif;
+     font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+     color: #ffffff;
+     font-size: 18px;
+     background: #464444;
+     border-radius: 100px 100px 350px 0px;
+     width: 100px;
+     height: 80px;
+     position: absolute;
+     top: 10%;
+     left: 50%;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     
+}

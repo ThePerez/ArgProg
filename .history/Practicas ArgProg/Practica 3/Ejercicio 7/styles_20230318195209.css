@@ -1,0 +1,12 @@
+.a {
+     font-family: sans-serif;
+     font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+     color: #ffffff;
+     font-size: 18px;   
+     text-align: center;
+     background: #919191;    
+     overflow: hidden;
+     padding: 20px;
+     border-radius: 0px 0px 35px 0px;     
+     border: 2px solid #000000;
+}
