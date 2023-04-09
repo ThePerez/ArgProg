@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+     <meta charset="UTF-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Gracias por Contactarme</title>
+     <link rel="stylesheet" href="">
+     <meta content="width=device-width, initial-scale=1.0" name="viewport">
+     <meta content="Resume Website Template Free Download" name="keywords">
+     <meta content="Resume Website Template Free Download" name="description">
+
+     <!-- Favicon -->
+     <link href="img/favicon.ico" rel="icon">
+
+     <!-- Google Fonts -->
+     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:300;400;600;700;800&display=swap" rel="stylesheet">
+
+     <!-- CSS Libraries -->
+     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet">
+     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
+     <link href="lib/slick/slick.css" rel="stylesheet">
+     <link href="lib/slick/slick-theme.css" rel="stylesheet">
+     <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
+
+     <!-- Template Stylesheet -->
+     <link href="css/style.css" rel="stylesheet">
+</head>
+
+<body data-spy="scroll" data-target=".navbar" data-offset="51">
+     <div class="wrapper">
+          <div class="contact" id="contact">
+               <div class="content-inner">
+                    <div class="content-header">
+                         <h2>En breve le contactaré</h2>
+                    </div>
+                    <div id="resultado">
+            
+                    </div>
+                    <div id="minuto">
+            
+                    </div>
+                    <div id="segundo">
+            
+                    </div>
+                </body>
+                <script type="text/javascript"> 
+                    var final = moment("2017-06-15");
+                    setInterval(function() {
+                        var inicio = moment();
+                        var duracion = final.diff(inicio);
+                        var intervalo = moment(duracion);
+                        var mes = intervalo.month()+1;
+                        var diaDelMes = intervalo.date();
+                        var hora = intervalo.hour();
+                        var minuto = intervalo.minute();
+                        var segundo = intervalo.second();
+                        var resultado = (intervalo.format("MM/DD HH:mm:ss"));
+                        $("#resultado").html(mes + " Meses " + diaDelMes + " Dias " + hora + " Horas " + minuto + " Minutos " + segundo + " Segundos");
+                        $("#minuto").html(minuto);
+                        $("#segundo").html(segundo);
+                    }, 1000);
+                    
+                </script>
+               </div>
+          </div>
+     </div>
+</body>
+
+</html>
